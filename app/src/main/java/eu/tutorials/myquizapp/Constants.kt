@@ -86,15 +86,6 @@ object Constants {
         )
         questionsList.add(que9)
 
-        // 10
-        val que10 = Question(
-            10, "What country does this flag belong to?",
-            R.drawable.ic_flag_of_new_zealand,
-            "New Zealand", "Australia",
-            "Armenia", "Austria", 1
-        )
-        questionsList.add(que10)
-
         return questionsList
     }
 }
